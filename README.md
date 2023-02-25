@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-<img height="128" src="https://raw.githubusercontent.com/coci/API-Guardian/main/assets/logo.png" width="128">
+<img height="320" src="https://raw.githubusercontent.com/coci/API-Guardian/main/assets/logo.png" width="320">
 </p>
 
 # API Guardian
