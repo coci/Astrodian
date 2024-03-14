@@ -3,7 +3,7 @@ ghp-import==2.1.0
 importlib-metadata==4.13.0
 Jinja2==3.1.2
 linkify-it-py==2.0.0
-Markdown==3.4.1
+Markdown==3.6
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 mdit-py-plugins==0.3.5
