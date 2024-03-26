@@ -18,7 +18,7 @@ PyYAML==6.0
 pyyaml_env_tag==0.1
 rich==13.3.2
 six==1.16.0
-textual==0.15.0
+textual==0.54.0
 typing_extensions==4.5.0
 uc-micro-py==1.0.1
 watchdog==2.3.0
